@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poojitha Poshimshetti</h1>
-<img src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif" align="center">
 <h3 align="center">🚀 **Aspiring Full Stack & UI/UX Developer** skilled in **Java, Angular, Spring**, and database management, with hands-on experience in building user-friendly websites. 🎤 **Trainer at Speak Sphere**, helping students develop public speaking skills and confidence. 💡 Passionate about **coding, design, and continuous learning**, eager to contribute to **innovative projects**.</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojitha-poshimshetti&label=Profile%20views&color=0e75b6&style=flat" alt="poojitha-poshimshetti" /> </p>
 
